@@ -12,5 +12,7 @@ html * {
    font-family: Arial !important;
 }
 .nav{
-  
+  height: 40px;
+  background = #4de1ff;
+    
 }
