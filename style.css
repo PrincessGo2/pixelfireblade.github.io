@@ -15,6 +15,7 @@ html * {
   margin-top: 40px;
   height: 40px;
   background: #4de1ff;
+  opacity: 0.75;
     
 }
 
@@ -43,6 +44,12 @@ html * {
   color: white;
 }
 
+.headerBreak {
+  width: 100%;
+  height: 0;
+  border-bottom: 2px solid #4de1ff;
+
+}
 
 
 
