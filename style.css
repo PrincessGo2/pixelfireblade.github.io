@@ -16,3 +16,9 @@ html * {
   background: #4de1ff;
     
 }
+
+.nav ul{
+  margin: 0;
+  padding: 0;
+
+}
