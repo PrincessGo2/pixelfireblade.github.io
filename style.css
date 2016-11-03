@@ -9,7 +9,8 @@ body {
 }
 html * {
    color: #000 !important;
-   font-family: Arial !important;
+   font-family: 'Quicksand', sans-serif !important;
+
 }
 .nav{
   margin-top: 40px;
