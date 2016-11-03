@@ -22,3 +22,7 @@ html * {
   padding: 0;
 
 }
+
+.nav ul ui{
+  list-style: none;
+}
