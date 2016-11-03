@@ -33,5 +33,13 @@ html * {
   float: left;
   display: block;
   padding: 10px 20px;
+  color: black;
+  
+
+}
+
+.nav ul li a:hover {
+  color:blue;
+
 
 }
