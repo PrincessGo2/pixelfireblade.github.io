@@ -37,7 +37,7 @@ html * {
   display: block;
   padding: 10px 20px;
   color: black;
-  transition: all, 0.5;
+  transition: all, 0.5s;
   
 
 }
