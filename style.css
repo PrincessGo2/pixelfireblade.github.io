@@ -12,6 +12,11 @@ html * {
    font-family: 'Quicksand', sans-serif;
 
 }
+.headerBreakLogo{
+  margin-bottom: 10px;
+
+}
+
 .nav{
   margin-top: 40px;
   height: 40px;
